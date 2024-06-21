@@ -1,1 +1,2 @@
 # odin-recipes
+In this project from The Odin Project, I will combine the skills I have learned, git and html, to create a recipe website with different recipes as webpages. I will use headings, paragraphs and lists (unordered and ordered) to structure the content of these recipes. I will also provide links from the homepage to the recipes.
